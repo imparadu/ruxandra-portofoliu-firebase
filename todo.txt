@@ -1,0 +1,4 @@
+stripe
+https://commercejs.com/
+https://authjs.dev/
+ui.shadcn.com componente
